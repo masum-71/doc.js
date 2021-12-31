@@ -20,6 +20,9 @@ a{
     color: black;
     font-size: 1.2rem;
 }
+a:hover{
+    color: rgb(73, 92, 55);
+}
 li{
     padding: 10px;
 }
