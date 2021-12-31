@@ -1,3 +1,4 @@
 # doc.js
-for freeCodeCamp
+for freeCodeCamp .
+
 it was for practic only.
